@@ -1,0 +1,257 @@
+.image {
+    position: relative;
+    width: 100%;
+}
+h1 {
+    position: absolute;
+    top: 95px;
+    left: 0;
+    width: 100%;
+    color: green;
+    text-align: center;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    color: 62, 138, 111;
+}
+
+h3 {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    color: green;
+    text-align: center;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    color: #3e8a6e;
+    font-size: medium;
+}
+
+button {
+    position: absolute;
+    top: 315px;
+    left: 600px;
+    width: 15%;
+    height: 8%;
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    font-size: large;
+    border: 1px black;
+    border-radius: 5px;
+    justify-content: center;
+    align-self: center;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    justify-content: center;
+  }
+
+  .image1 {
+      width: 600px;
+      height: auto;
+      justify-content: center;
+      border: 20px black;
+  }
+
+  .image1 {
+      width: auto;
+      height: 600px;
+      justify-content: center;
+      border: 20px black;
+  }
+  .image2 {
+    position: absolute;
+    top: 130px;
+    left: 600px;
+    width: 225px;
+    height: auto;
+    width: 225px;
+    height: auto;
+    vertical-align: middle;
+  }
+
+h1 {
+    position: absolute;
+    top: 215px;
+    left: 400;
+    width: 100%;
+    color:white;
+    text-align: center;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    font-size: larger;
+    justify-content: center;
+}
+
+h2 {
+    position: absolute;
+    top: 250px;
+    left: 400;
+    width: 100%;
+    color:white;
+    text-align: center;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    font-size: larger;
+    justify-content: center;
+}
+
+h4 {
+    position: absolute;
+    top: 400px;
+    left: 0;
+    width: 100%;
+    color:white;
+    text-align: center;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    font-size: smaller;
+}
+
+.bundle {
+    color: #2DBD9D;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    position: relative;
+    top: 50px;
+    line-height: 13px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.huluDisney {
+    width: 250px;
+    height: auto;
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: 650px;
+    left: 50px;
+}
+
+.second {
+    background-color: #336e6b;
+    height: 20vh;
+    width: 100%;
+}
+
+.third {
+    background: black;
+    height: 150vh;
+    width: 100%;
+}
+
+.hulu {
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    position: relative;
+    top: 50px;
+    line-height: 13px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.button2 {
+    color: #FFFFFF;
+    background: transparent;
+    border: 2px solid #FFFFFF;
+    text-transform: uppercase;
+    border-radius: 4px;
+    height: 30px;
+    font-size: 16px;
+    position: absolute;
+    top: 665px;
+    left: 1200px;
+}
+
+.bob {
+    width: 300px;
+    height: auto;
+    width: 300px;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 250px;
+}
+
+.movie {
+    width: 300px;
+    height: auto;
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 250px;
+}
+
+.alien {
+    width: 300px;
+    height: auto;
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 250px;
+}
+
+.woman {
+    width: 300px;
+    height: auto;
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 250px;
+}
+
+.shows{
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    position: relative;
+    top: 50px;
+    line-height: 13px;
+    padding-bottom: 8px;
+}
+
+
+.title {
+    position: relative;
+    top: 135px;
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+}
+
+.plans {
+    position: relative;
+    top: 0px;
+    color: #336e6b;
+    font-weight: 1000;
+    font-size: 15px;
+    text-align: center;
+}
+
+.stream {
+    position: relative;
+    top: 120px;
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+    text-align: center;
+}
+
+.stream1{
+    position: relative;
+    top: 125px;
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+    text-align: center;
+}
